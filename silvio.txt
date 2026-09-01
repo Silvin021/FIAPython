@@ -1,0 +1,7 @@
+Olá Mundo!
+Esse é um arquivo de texto
+Criado por silvio neto
+
+Line 1
+Line 2
+Line 3
